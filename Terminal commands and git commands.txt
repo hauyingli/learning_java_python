@@ -1,0 +1,119 @@
+﻿Your Company
+123 Your Street
+Your City, ST 12345
+(123) 456-7890
+Project Name
+18th September 2019
+OVERVIEW
+This project talking about some commands with Terminal (Linux),and some example for how to use those command
+GOALS
+1. Edit and write command on terminal 
+2. computer connect git and update to github 
+SPECIFICATIONS
+None
+MILESTONES
+First day
+On September 18 2019 --version1.
+next day
+next version
+
+
+
+
+
+
+
+
+
+
+1. Sample commands on Terminal (linux)
+
+
+* basic command                     
+ 
+$cd ..  #upfile Change working directory
+
+
+$cd /usr #goto usr file "Absolute path"
+
+
+$cd my_project #goto my_project "relative path"
+
+
+$cd ~/my_project #on user "~" == home path
+
+
+$pwd  #whhich File Im
+
+
+$ls   #print out this path all file name.
+
+
+$sudo xxxx xxx #sudo is give permission 
+
+
+$mv "file name" #remove the file
+
+
+$cp testfile NewName copy xxx.txt and rename on same file
+
+
+$mkdir "file name" #create a new folder
+
+
+$rmdir "file name" #Delete an empty folder
+
+
+$chmod o+r+w+x /home/hauying/Library/Andriod #give permission to ctrl folder
+
+
+$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Q&A
+           
+
+
+
+
+        1. I can't use the npm command , I need the Permission.
+
+
+           sudo chmod 777 /usr/locak/lib/dtrace/node.d 
+
+
+        2. My file need Permission,can't wirte ( read only ).
+        
+           chmod o+r+w+x /home/hauying/Library/Andriod
+         
+        3. Set up PATH ( Need SDK_HOME/JAVA_HOME/TOOLS)
+
+
+          1. Check PATH
+
+
+             echo $PATH
