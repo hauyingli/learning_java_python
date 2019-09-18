@@ -74,6 +74,22 @@ $
 
 
 
+git command
+
+更改文件或新增"test.txt"
+
+$git add test.txt #加入到 git 內存
+
+$git commit -m "新增 test 文件"  #描述更改內容
+
+$git push -u origin master #上傳到github
+
+
+
+
+
+
+
 
 
 
