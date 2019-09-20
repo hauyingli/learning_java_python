@@ -5,7 +5,7 @@ from time import sleep
 import os
 
 '''opne adb command'''
-from PIL import Image  # pip install pillow
+# from PIL import Image  # pip install pillow
 
 
 def screen():
@@ -43,9 +43,6 @@ def open():
     d.click(463.0, 878.0)
     d.click(890.0,  140.0)
     sleep(2)
-    d.
-
-
 open()
 
 
