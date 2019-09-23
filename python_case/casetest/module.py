@@ -24,3 +24,4 @@ def testcaes1():
     else
         sleep(1)
         print("test1 done")
+testcaes1()
