@@ -4,7 +4,7 @@ check some commands
 
 # Push to github command
 
-push -u origin master
+push -f origin master
 
 
 # Add new py file  
